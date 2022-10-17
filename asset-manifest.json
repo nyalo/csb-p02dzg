@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://nyalo.github.io/csb-p02dzg/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://nyalo.github.io/csb-p02dzg/static/js/main.3fed0e9b.chunk.js",
-    "main.js.map": "https://nyalo.github.io/csb-p02dzg/static/js/main.3fed0e9b.chunk.js.map",
+    "main.css": "https://nyalo.github.io/csb-p02dzg/static/css/main.7647ed0a.chunk.css",
+    "main.js": "https://nyalo.github.io/csb-p02dzg/static/js/main.ec92001f.chunk.js",
+    "main.js.map": "https://nyalo.github.io/csb-p02dzg/static/js/main.ec92001f.chunk.js.map",
     "runtime-main.js": "https://nyalo.github.io/csb-p02dzg/static/js/runtime-main.38790b66.js",
     "runtime-main.js.map": "https://nyalo.github.io/csb-p02dzg/static/js/runtime-main.38790b66.js.map",
-    "static/js/2.33f0bf01.chunk.js": "https://nyalo.github.io/csb-p02dzg/static/js/2.33f0bf01.chunk.js",
-    "static/js/2.33f0bf01.chunk.js.map": "https://nyalo.github.io/csb-p02dzg/static/js/2.33f0bf01.chunk.js.map",
+    "static/js/2.b99aae93.chunk.js": "https://nyalo.github.io/csb-p02dzg/static/js/2.b99aae93.chunk.js",
+    "static/js/2.b99aae93.chunk.js.map": "https://nyalo.github.io/csb-p02dzg/static/js/2.b99aae93.chunk.js.map",
     "index.html": "https://nyalo.github.io/csb-p02dzg/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://nyalo.github.io/csb-p02dzg/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://nyalo.github.io/csb-p02dzg/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+    "static/css/main.7647ed0a.chunk.css.map": "https://nyalo.github.io/csb-p02dzg/static/css/main.7647ed0a.chunk.css.map",
+    "static/js/2.b99aae93.chunk.js.LICENSE.txt": "https://nyalo.github.io/csb-p02dzg/static/js/2.b99aae93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.38790b66.js",
-    "static/js/2.33f0bf01.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.3fed0e9b.chunk.js"
+    "static/js/2.b99aae93.chunk.js",
+    "static/css/main.7647ed0a.chunk.css",
+    "static/js/main.ec92001f.chunk.js"
   ]
 }
